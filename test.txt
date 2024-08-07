@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Events</title>
+    <link rel="icon" href="C:\Users\ramve\OneDrive\Desktop\front end\html\img\R.jpeg">
+</head>
+<body bgcolor="black" style="color: aliceblue;">
+  <center>  <h1>Upcoming Events</h1>
+  <p>don't miss any of you important Events,stay updated 📅</p>
+</center>
+<hr>
+<center>
+<p>W Hotels’ latest cultural initiative, W PRESENTS, is heading on a multi-destination tour this year. Having already hosted a series of successful live music events in the U.S. last summer, the upcoming global fixture will touch base in Europe and Dubai and will continue to use the hotel’s signature format where, for one night only, its lobbies, courtyards, and outdoor spaces become a stage for local DJs.</p>
+
+    <img src="C:\Users\ramve\OneDrive\Desktop\front end\html\img\img3.jpeg" alt="song image">
+    <h3>Free entry | Free food | pets aren't allowed</h3>
+    <p>Chappell Roan, one of the breakout stars of 2024, was not a headliner at Lollapalooza this week. But you wouldn't know that from looking at the massive crowd that gathered in Chicago.</p>
+    <p>Waves of fans packed the city's Grant Park to see the singer, who emerged on the main stage Thursday in a wrestling-inspired bodysuit and luchador mask. Thousands of concertgoers sang along to her hit songs like "Hot to Go!" </p>
+    <img src="C:\Users\ramve\OneDrive\Desktop\front end\html\img\img7.jpg" alt="xxxtentacion"><br>
+   <h2> <a href="https://insider.in/music-in-chennai">XXXTENTACION Long drive</a></h2>
+   <h3>Free entry | Free food | pets aren't allowed</h3>
+   <p>Known as the "Youth Icon of Tamil Nadu," Yuvan is like comfort food for your ears – familiar, soothing, and always impressive!
+
+    With his father being the legendary musician Ilaiyaraaja, Yuvan inherited a natural talent for music. His musical journey, transitioning from catchy tunes to emotional ballads, has been like a musical adventure that has captured the hearts and ears of his audience.
+    
+    Yuvan's music can make you dance like nobody's watching and hit you right in the feels with his emotional melodies at the same time. It's like riding an emotional rollercoaster through his melodies, and Coimbatore, get ready to experience it firsthand!</p>
+
+</center>
+<hr>
+<center>
+    <h1>Contact</h1>
+    <h3>+91 9080543371 | anbu05147@gmail.com</h3>
+    <h5>krishna mahal,mannadi,chennai-600001</h5>
+</center>
+</body>
+</html>
